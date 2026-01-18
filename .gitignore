@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Artifacts (models, logs)
+artifacts/
+*.joblib
+
+# Local test scripts
+run_local_test.py
